@@ -566,7 +566,7 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 	<a href="https://www.linkedin.com/in/cthulhu897"> 
     	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   	</a>
-	<a href="mailto:jgoel92@gmail.com"> 
+	<a href="mailto:jgoel92@diax.mx"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://www.twitter.com/cthulhu897"> 
@@ -600,10 +600,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://diax.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Code">💻</a> <a href="#ideas-cthulhu897" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Tests">⚠️</a> <a href="#maintenance-cthulhu897" title="Maintenance">🚧</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Documentation">📖</a> <a href="#design-cthulhu897" title="Design">🎨</a> <a href="https://github.com/cthulhu897/diax.github.io/pulls?q=is%3Apr+reviewed-by%3Acthulhu897" title="Reviewed Pull Requests">👀</a> <a href="#content-cthulhu897" title="Content">🖋</a> <a href="#a11y-cthulhu897" title="Accessibility">️️️️♿️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt="Anchal Pandey"/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://diax.github.io"><img src="https://avatars.githubusercontent.com/u/11900241?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Code">💻</a> <a href="#ideas-cthulhu897" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Tests">⚠️</a> <a href="#maintenance-cthulhu897" title="Maintenance">🚧</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Documentation">📖</a> <a href="#design-cthulhu897" title="Design">🎨</a> <a href="https://github.com/cthulhu897/diax.github.io/pulls?q=is%3Apr+reviewed-by%3Acthulhu897" title="Reviewed Pull Requests">👀</a> <a href="#content-cthulhu897" title="Content">🖋</a> <a href="#a11y-cthulhu897" title="Accessibility">️️️️♿️</a></td>
     </tr>
   </tbody>
 </table>
@@ -620,3 +617,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
 Copyright &copy; 2021 Francisco Díaz. All rights reserved. 
+
+forked from (https://github.com/JayantGoel001/JayantGoel001.github.io)
