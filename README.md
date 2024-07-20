@@ -600,7 +600,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://diax.github.io"><img src="https://avatars.githubusercontent.com/u/11900241?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Code">💻</a> <a href="#ideas-cthulhu897" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Tests">⚠️</a> <a href="#maintenance-cthulhu897" title="Maintenance">🚧</a> <a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Documentation">📖</a> <a href="#design-cthulhu897" title="Design">🎨</a> <a href="https://github.com/cthulhu897/diax.github.io/pulls?q=is%3Apr+reviewed-by%3Acthulhu897" title="Reviewed Pull Requests">👀</a> <a href="#content-cthulhu897" title="Content">🖋</a> <a href="#a11y-cthulhu897" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://diax.github.io"><img src="https://avatars.githubusercontent.com/u/11900241?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
