@@ -413,7 +413,7 @@ Add the below code snippet to `index.html` with your site info. This step is not
 ```html
 <meta itemprop="name" content="--- YOUR TITLE ---">
 <meta itemprop="description" content="--- SITE DESCRIPTION ---">
-<meta itemprop="url" content="--- YOUR SITE URL ---"/>
+<meta itemprop="url" content="diax.mx"/>
 <meta itemprop="image" content="--- YOUR IMAGE ---">
 <link rel="image_src" href="--- YOUR IMAGE ---">
 
@@ -427,13 +427,13 @@ Add the below code snippet to `index.html` with your site info. This step is not
 <meta property="og:image:alt" content="--- YOUR TITLE ---">
 <meta property="og:title" content="--- YOUR TITLE ---">
 <meta property="og:description" content="--- SITE DESCRIPTION ---">
-<meta property="og:url" content="--- YOUR SITE URL ---">
+<meta property="og:url" content="diax.mx">
 <meta property="og:type" content="website">
 
 <meta name="twitter:title" content="--- YOUR TITLE ---">
 <meta name="twitter:description" content="--- SITE DESCRIPTION ---">
-<meta name="twitter:site" content="@--- YOUR USERNAME ---">
-<meta name="twitter:creator" content="@--- YOUR USERNAME ---">
+<meta name="twitter:site" content="@cthulhu897">
+<meta name="twitter:creator" content="@cthulhu897">
 <meta name="twitter:image:src" content="--- YOUR IMAGE ---">
 <meta name="twitter:image" content="--- YOUR IMAGE ---">
 <meta name="twitter:card" content="summary_large_image">
@@ -442,21 +442,21 @@ Add the below code snippet to `index.html` with your site info. This step is not
     {
         "@type": "Person",
         "@context": "https://schema.org",
-        "url": "--- YOUR SITE URL ---",
+        "url": "diax.mx",
         "description": "--- SITE DESCRIPTION ---",
         "name": "--- YOUR NAME ---",
         "image": "--- YOUR IMAGE ---",
         "email":"--- YOUR EMAIL ---",
         "address": "--- YOUR LOCATION ---",
         "sameAs":[
-            "https://github.com/--- YOUR USERNAME ---/",
-            "https://www.linkedin.com/in/--- YOUR USERNAME ---/",
-            "https://gist.github.com/--- YOUR USERNAME ---/",
-            "https://www.hackerrank.com/--- YOUR USERNAME ---",
-            "https://www.instagram.com/--- YOUR USERNAME ---/",
-            "https://www.facebook.com/--- YOUR USERNAME ---/",
-            "https://twitter.com/--- YOUR USERNAME ---/",
-            "https://dev.to/--- YOUR USERNAME ---",
+            "https://github.com/cthulhu897/",
+            "https://www.linkedin.com/in/cthulhu897/",
+            "https://gist.github.com/cthulhu897/",
+            "https://www.hackerrank.com/cthulhu897",
+            "https://www.instagram.com/cthulhu897/",
+            "https://www.facebook.com/cthulhu897/",
+            "https://twitter.com/cthulhu897/",
+            "https://dev.to/cthulhu897",
             "https://wa.me/--- YOUR MOBILE NUMBER ---"
         ]
     }
