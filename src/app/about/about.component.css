@@ -1,10 +1,15 @@
 #about {
     background-image: url(../../assets/images/about-bg.jpg);
-    background-position: relative;
-    background-repeat: repeat;
+    background: url(../../assets/images/about-bg.jpg);
+    background-position: center;
     background-color: #000;
-    background-size: fill;
+    background-size: cover;
     background-attachment: fixed;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
 }
 
 #about h2 {
@@ -155,7 +160,7 @@ small {
     position: absolute;
     width: 15px;
     height: 15px;
-    background-color: #242a35;
+    background-color: #d2d4d6;
     top: 25%;
     border-radius: 50%
 }
@@ -181,7 +186,7 @@ small {
     width: 0;
     top: 5%;
     left: calc(50% - 1px);
-    border: 1px dashed #000;
+    border: 1px dashed #ececec;
     height: 90%
 }
 
@@ -194,17 +199,18 @@ small {
     transform: rotate(90deg);
     margin-top: -35px;
     display: block;
-    color: #000
+    color: #ececec
 }
 
 .experience-designation {
     font-size: 1.2rem;
-    color: #242a35
+    color: #808286
 }
 
 .experience-company-name {
     margin: 5px 0 0;
     color: #d10a0a;
+    border-radius: 1px;
     font-weight: 400;
     font-size: 1rem
 }
@@ -226,7 +232,8 @@ small {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    color: rgb(221, 221, 221);
 }
 
 @media (min-width:200px) and (max-width:768px) {
