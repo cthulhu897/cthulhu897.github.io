@@ -92,7 +92,7 @@ export class WaifuComponent implements OnInit {
 		},
 		'fa-info-circle': (event: any) => {
 			event.preventDefault();
-			open("https://github.com/cthulhu897/diax.github.io/");
+			open("https://github.com/cthulhu897/cthulhu897.github.io/");
 		},
 		'fa-times': (event: any) => {
 			event.preventDefault();

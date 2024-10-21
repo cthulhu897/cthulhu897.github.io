@@ -27,17 +27,17 @@
 - Clone the repository :
     - With HTTPS:
       ```bash
-      git clone https://github.com/cthulhu897/diax.github.io.git
+      git clone https://github.com/cthulhu897/cthulhu897.github.io.git
       ```
     - With SSH:
       ```bash
-      git@github.com:cthulhu897/diax.github.io.git
+      git@github.com:cthulhu897/cthulhu897.github.io.git
       ```
       
 - Navigate to working Directory and **main** branch
 
 	```bash
-	cd diax.github.io
+	cd cthulhu897.github.io
 	git switch main
 	```
 
@@ -92,24 +92,24 @@ Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) ins
 docker --version
 ```
 
-  - To pull the [GitHub Container Registry](https://github.com/cthulhu897/diax.github.io/pkgs/container/diax.github.io) Image:
+  - To pull the [GitHub Container Registry](https://github.com/cthulhu897/cthulhu897.github.io/pkgs/container/cthulhu897.github.io) Image:
     ```bash
-    docker pull ghcr.io/cthulhu897/diax.github.io:latest
+    docker pull ghcr.io/cthulhu897/cthulhu897.github.io:latest
     ```
   
-  - To pull the [Dockerhub](https://hub.docker.com/r/cthulhu897/diax.github.io) Image:
+  - To pull the [Dockerhub](https://hub.docker.com/r/cthulhu897/cthulhu897.github.io) Image:
     ```bash
-    docker pull cthulhu897/diax.github.io:latest
+    docker pull cthulhu897/cthulhu897.github.io:latest
     ```
   
-  - To automatically pull and run the [GitHub Container Registry](https://github.com/cthulhu897/diax.github.io/pkgs/container/diax.github.io) Image:
+  - To automatically pull and run the [GitHub Container Registry](https://github.com/cthulhu897/cthulhu897.github.io/pkgs/container/cthulhu897.github.io) Image:
     ```bash
-    docker run -d -p 4200:80 ghcr.io/cthulhu897/diax.github.io:latest
+    docker run -d -p 4200:80 ghcr.io/cthulhu897/cthulhu897.github.io:latest
     ```
 
-  - To automatically pull and run the [Dockerhub](https://hub.docker.com/r/cthulhu897/diax.github.io) Image:
+  - To automatically pull and run the [Dockerhub](https://hub.docker.com/r/cthulhu897/cthulhu897.github.io) Image:
     ```bash
-    docker run -d -p 4200:80 cthulhu897/diax.github.io:latest
+    docker run -d -p 4200:80 cthulhu897/cthulhu897.github.io:latest
     ```
 
     Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
@@ -119,7 +119,7 @@ docker --version
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://diax.github.io"><img src="https://avatars.githubusercontent.com/u/11900241?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/diax.github.io/commits?author=cthulhu897" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://cthulhu897.github.io"><img src="https://avatars.githubusercontent.com/u/11900241?v=4?s=100" width="100px;" alt="Francisco Díaz"/><br /><sub><b>Francisco Díaz</b></sub></a><br /><a href="https://github.com/cthulhu897/cthulhu897.github.io/commits?author=cthulhu897" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
