@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://diax.github.io/sitemap_index.xml
+Sitemap: http://cthulhu897.github.io/sitemap_index.xml
