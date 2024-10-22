@@ -30,7 +30,6 @@ export class AboutComponent implements OnInit,AfterViewInit {
 			}
 			this.activeElements[tab.id].addEventListener('click',(event : any) => event.preventDefault());
 		}
-
 		this.changeActiveTab(this.activeTab);
 	}
 

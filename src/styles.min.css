@@ -153,6 +153,7 @@ img {
 }
 
 .btn {
+	font-family: "RobotoSlab",monospace;
 	display: inline-block;
 	font-weight: 400;
 	color: #fff;
@@ -184,7 +185,7 @@ img {
 	z-index: 1070;
 	display: block;
 	margin: 0;
-	font-family: "Black Ops One",cursive;
+	font-family: "TyperighterOld",monospace;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 1.5;
@@ -468,8 +469,8 @@ img {
 		color: #fff;
 		outline: 0;
 		text-decoration: none;
-		background: #ff9800;
-		border: 1px solid #ff9800
+		background: #d10a0a;
+		border: 1px solid #d10a0a
 	}
 
 .section-title::before {
@@ -478,7 +479,7 @@ img {
 	left: 0;
 	right: 0;
 	content: "";
-	background: #ff9800;
+	background: #d10a0a;
 	height: 39px;
 	width: 2px;
 	margin: 0 auto
@@ -506,7 +507,7 @@ img {
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #ff9800
+	background: #d10a0a
 }
 
 	::-webkit-scrollbar-thumb:hover {
@@ -538,7 +539,7 @@ img {
 }
 
 .btn-outline, .text-custom {
-	color: #ff9800
+	color: #d10a0a
 }
 
 .font-size-50 {
@@ -550,6 +551,7 @@ img {
 }
 
 .nav-link {
+	font: 'sans-serif';
 	display: block;
 	padding: .5rem 1rem
 }
