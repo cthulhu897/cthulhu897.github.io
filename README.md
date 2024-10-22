@@ -92,7 +92,7 @@
 - **Cultured** - Light Text Color & Light Background Color
 - **Dutch White** - Waifu Tips Background Color
 
-<a href="https://coolors.co/242a35-ff9800-212529-6c757d-ffffff-f8f9fa-ecd9bc">
+<a href="https://coolors.co/242a35-d10a0a-212529-6c757d-ffffff-f8f9fa-ecd9bc">
   <img alt="Color Palette Screenshot" src="screenshots/color-main.png"/>
 </a>
 
